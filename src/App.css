@@ -1,0 +1,8 @@
+header {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(black), to(transparent)), url("img/header-bg.jpg");
+  background-image: linear-gradient(to bottom, black, transparent), url("img/header-bg.jpg");
+  width: 100%;
+  height: 770px;
+  background-size: cover;
+}
+/*# sourceMappingURL=App.css.map */
