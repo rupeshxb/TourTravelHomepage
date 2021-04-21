@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,eAAe,CAAC;EACd,KAAK,EAAE,KAAK;CAgBb;;AAjBD,AAEE,eAFa,CAEb,SAAS,CAAC;EACR,WAAW,EAAE,wBAAwB;CACtC;;AAJH,AAKE,eALa,CAKb,MAAM,CAAC;EACL,WAAW,EAAE,oBAAoB;EACjC,SAAS,EAAE,KAAK;EAChB,WAAW,EAAE,MAAM;EACnB,WAAW,EAAE,IAAI;EACjB,cAAc,EAAE,IAAI;CACrB;;AAXH,AAYE,eAZa,CAYb,QAAQ,CAAC;EACP,WAAW,EAAE,qBAAqB;EAClC,WAAW,EAAE,GAAG;EAChB,cAAc,EAAE,GAAG;CACpB",
-    "sources": [
-        "slider-element.scss"
-    ],
-    "names": [],
-    "file": "slider-element.css"
-}

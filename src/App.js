@@ -1,4 +1,4 @@
-import "./App.css";
+import "./style.css";
 import NavbarComponent from "./navbar-component";
 import BannerComponent from "./banner";
 

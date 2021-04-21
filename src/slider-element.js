@@ -1,6 +1,5 @@
 import React from "react";
-import "./typography_.css";
-import "./slider-element.css";
+import "./style.css"
 
 const SliderElement = (props) => {
   return (

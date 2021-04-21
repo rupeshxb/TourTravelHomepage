@@ -1,7 +1,6 @@
 import React from "react";
-import "./navbar-component.css";
 import logo from "./img/logo-sample.png";
-import "./typography_.css";
+import "./style.css";
 
 const NavbarComponent = () => {
   return (

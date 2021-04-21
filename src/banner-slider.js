@@ -1,9 +1,8 @@
 import React from "react";
-import "./banner-slider.css";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import "./typography_.css";
+import "./style.css";
 import SliderElement from "./slider-element";
 
 const BannerSlider = () => {
@@ -17,7 +16,7 @@ const BannerSlider = () => {
   return (
     <Slider {...settings}>
       <SliderElement
-        subtitle="The Himalayan Range"
+        subtitle="The Himalayan Mountain Range"
         title="Nepal Country"
         temp="-02"
         weather="Very Cold"

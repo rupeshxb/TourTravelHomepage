@@ -1,7 +1,7 @@
 import React from "react";
 import BannerSlider from "./banner-slider";
-import "./banner.css";
-import "./typography_.css";
+import SearchWrapper from "./search-wrapper";
+import "./style.css";
 
 const BannerComponent = () => {
   return (
@@ -26,6 +26,7 @@ const BannerComponent = () => {
           </div>
         </div>
       </div>
+      <SearchWrapper />
     </div>
   );
 };
